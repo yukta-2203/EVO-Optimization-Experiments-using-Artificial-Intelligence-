@@ -1,4 +1,4 @@
-# EVO-Optimization-Experiments-using-Artificial-Intelligence-
+
 # EVO NIA: Evolutionary Neural Intelligence Algorithm
 
 ## Research Motivation
@@ -72,7 +72,7 @@ jupyter notebook "EVO NIA (2124,2145).ipynb"
 
 ## About Me
 
-I am [Yukta], passionate about AI research, optimization algorithms, and data science applications.
+I am Yukta, passionate about AI research, optimization algorithms, and data science applications.
 
 * GitHub: [https://github.com/yukta-2203]
 
